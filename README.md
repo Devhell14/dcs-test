@@ -17,7 +17,7 @@ npm install
 npm run dev
 
 6. Open your web browser and access the application at:
- http://localhost:3000
+ http://localhost:5173
 
 # Additional Notes:
 - If you encounter any issues, ensure you have compatible versions of Node.js and npm installed.
