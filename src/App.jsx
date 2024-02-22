@@ -22,10 +22,6 @@ function App() {
   const [searchQuery, setSearchQuery] = useState("");
   const [countryData, setCountryData] = useState([]);
 
-  // console.log('countries ==>', countries)
-  // console.log('searchQuery ==>', searchQuery)
-  // console.log('countryData ==>', countryData)
-
   const columns = [
     { field: "CountryName", headerName: "Country Name", width: 200 },
     { field: "CapitalCity", headerName: "Capital City", width: 200 },
