@@ -14,7 +14,7 @@ cd Dcs-test
 npm install
 
 5. Start the development server:
-npm start
+npm run dev
 
 6. Open your web browser and access the application at:
  http://localhost:3000
