@@ -5,7 +5,7 @@ This project was created to demonstrate the use of React, Material UI, and other
 Node.js and npm (or yarn) installed on your system.
 
 2. Installation:
-Clone the repository : git clone https://github.com/
+Clone the repository : git clone https://github.com/Devhell69/dcs-test.git
 
 3. Navigate to the project directory:
 cd Dcs-test
